@@ -27,7 +27,7 @@ $ git clone https://github.com/H0rn3t-Sp1d3rs/Mass-Deface
 
 $ cd Mass-Deface
 
-$python2 Mass.py
+$ python2 Mass.py
 
 ```
 
