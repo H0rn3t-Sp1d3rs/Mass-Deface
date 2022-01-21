@@ -1,6 +1,8 @@
 # Mass-Deface
 Assalamu Alaikum
+
 I am H0rn3t Sp1d3rs
+
 massdeface Tools
 
 
@@ -17,7 +19,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$pip install requests
+$ pip install requests
 
 $ pip install mechanize
 
