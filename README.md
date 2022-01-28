@@ -31,8 +31,10 @@ $ python2 Mass.py
 
 ```
 ![Screenshot_20220121-235249](https://user-images.githubusercontent.com/97798085/150578204-f674675a-5b32-4000-9aca-8aa5c0e36df1.png)
-
-
+<hr>
+<h3>How To Use</H3>
+https://www.facebook.com/106114485064384/posts/221717510170747/?app=fbl
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/H0rn3t.Sp1d3rs"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
